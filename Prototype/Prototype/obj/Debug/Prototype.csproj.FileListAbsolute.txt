@@ -1,0 +1,5 @@
+c:\users\reynaldinho\documents\visual studio 2015\Projects\Prototype\Prototype\bin\Debug\Prototype.exe.config
+c:\users\reynaldinho\documents\visual studio 2015\Projects\Prototype\Prototype\bin\Debug\Prototype.exe
+c:\users\reynaldinho\documents\visual studio 2015\Projects\Prototype\Prototype\bin\Debug\Prototype.pdb
+c:\users\reynaldinho\documents\visual studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.exe
+c:\users\reynaldinho\documents\visual studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.pdb

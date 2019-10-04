@@ -1,0 +1,6 @@
+c:\users\reynaldinho\documents\visual studio 2015\Projects\Brigde\Brigde\bin\Debug\Brigde.exe.config
+c:\users\reynaldinho\documents\visual studio 2015\Projects\Brigde\Brigde\bin\Debug\Brigde.exe
+c:\users\reynaldinho\documents\visual studio 2015\Projects\Brigde\Brigde\bin\Debug\Brigde.pdb
+c:\users\reynaldinho\documents\visual studio 2015\Projects\Brigde\Brigde\obj\Debug\Brigde.csprojResolveAssemblyReference.cache
+c:\users\reynaldinho\documents\visual studio 2015\Projects\Brigde\Brigde\obj\Debug\Brigde.exe
+c:\users\reynaldinho\documents\visual studio 2015\Projects\Brigde\Brigde\obj\Debug\Brigde.pdb
